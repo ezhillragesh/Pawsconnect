@@ -1,27 +1,31 @@
-# React + TypeScript + Vite
+# PawsConnect (Under Progress)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to the PawsConnect project repository! PawsConnect is a work-in-progress web application aimed at connecting pet lovers, enthusiasts, and adopters in a seamless online community. Our platform will be built using the MERN stack, enhanced with TypeScript, and powered by Vite for a lightning-fast development experience.
 
-## Expanding the ESLint configuration
+## Features (Planned)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **User Profiles:** Create and customize your pet lover profile, share your pet stories, and showcase your furry friends.
+- **Pet Adoption:** Browse through a curated list of pets available for adoption and connect with shelters.
+- **Community Interaction:** Engage in discussions, share pet care tips, and collaborate with other pet enthusiasts.
+- **Messaging:** Connect with fellow pet lovers through direct messaging and build a network of friends.
+- **Events and Meetups:** Discover local pet-related events and meetups to connect in person.
 
-- Configure the top-level `parserOptions` property like this:
+## Tech Stack
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- **Frontend:** Built with TypeScript and Vite for a modern, performant, and delightful user experience.
+- **Backend:** Utilizing the MERN stack - MongoDB, Express.js, React with TypeScript, and Node.js - for a robust and scalable backend architecture.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Project Status
+
+PawsConnect is currently in active development. Our team is hard at work crafting the foundation of this exciting platform. We appreciate your interest and patience as we work towards bringing PawsConnect to life.
+
+## Getting Involved
+
+We welcome contributions and feedback! If you're interested in joining the PawsConnect community, please feel free to reach out to us. Whether you're a developer, designer, pet expert, or just passionate about pets, we'd love to have you on board.
+
+## Contact Us
+
+For inquiries, collaborations, or just to say hello, you can reach us at ragesh@duck.com
+
